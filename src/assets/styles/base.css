@@ -2,9 +2,11 @@
 
 :root
 {
-    --color-background: #222;
-    --color-text: #ffe46c;
-    --color-text-shadow: #ffdd44;
+    --color-background: #00010D;
+    --color-text: #F0F2A7;
+    --color-text-shadow: #F0F2A7;
+    --color-cell-dark: #8c1531;
+    --color-cell-light: #ffe7e6;
     --text-weight-base: 300;
     --text-weight-bold: 500;
 
